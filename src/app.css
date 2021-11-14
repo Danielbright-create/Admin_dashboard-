@@ -1,0 +1,22 @@
+body {
+    background: #FFFFFF;
+}
+
+.container {
+    display: flex;
+    flex: 1;
+}
+
+.otheritem{
+    flex: 4;
+    
+}
+
+h2 {
+    text-align: right;
+    margin-right: 200px;
+    color: #3E4E77;
+    margin-top: 10px;
+    font-weight: 400;
+    font-family: 'Poppins', sans-serif;
+}
